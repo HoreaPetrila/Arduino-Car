@@ -3,4 +3,4 @@ Arduino car that avoids objects
 
 
 The Arduino scheme is here: 
-![Screenshot](screenshot.png)
+![Screenshot](screenshot.jpg)
